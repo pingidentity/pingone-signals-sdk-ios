@@ -2,7 +2,7 @@
 
 ## Installation
 
-PingOne Signals SDK is available through [CocoaPods](https://cocoapods.org) and [Switft Package Manager](https://swift.org/package-manager/).
+PingOne Signals SDK is available through [CocoaPods](https://cocoapods.org) and [Swift Package Manager](https://swift.org/package-manager/).
 
 ## Usage
 
