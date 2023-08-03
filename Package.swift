@@ -14,7 +14,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "PingOneSignals",
-            url: "https://assets.pingone.com/signals/ios-sdk/5.1.1/PingOneSignals.xcframework.zip",
-            checksum: "c2d30c00f404b5c0d0f0cad35c736ef43ca62de8df61d913c45321aba94fc72a"),
+            url: "https://assets.pingone.com/signals/ios-sdk/5.2.0/PingOneSignals.xcframework.zip",
+            checksum: "0cc3ec26a8107ea69a4e31845b0fbd708a8dcb0192a96405a0eb4d2a6f5d823e"),
     ]
 )
